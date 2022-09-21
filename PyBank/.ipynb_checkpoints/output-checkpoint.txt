@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total Months: {line_num}
+Total: {total_p_l}
+Average  Change: {net_change_avg_rounded}
+Greatest Increase in Profits: {max_net_change[0]} {max_net_change[0]}
+Greatest Decrease in Profits: {min_net_change[0]} {min_net_change[0]}
