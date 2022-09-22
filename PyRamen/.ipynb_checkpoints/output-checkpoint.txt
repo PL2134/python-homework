@@ -1,1 +1,12 @@
-{'spicy miso ramen': {'01-count': 9237, '02-revenue': 48, '03-cogs': 20, '04-profit': 28}, 'tori paitan ramen': {'01-count': 9153, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'truffle butter ramen': {'01-count': 8981, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'tonkotsu ramen': {'01-count': 9287, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'vegetarian spicy miso': {'01-count': 9215, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'shio ramen': {'01-count': 9179, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'miso crab ramen': {'01-count': 8886, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'nagomi shoyu': {'01-count': 9131, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'soft-shell miso crab ramen': {'01-count': 9129, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'burnt garlic tonkotsu ramen': {'01-count': 9069, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}, 'vegetarian curry + king trumpet mushroom ramen': {'01-count': 8823, '02-revenue': 0, '03-cogs': 0, '04-profit': 0}}
+This is the financial report for PyRamen.
+spicy miso ramen {'01-count': 9238.0, '02-revenue': 110856, '03-cogs': 46190, '04-profit': 64666} 
+tori paitan ramen {'01-count': 9156.0, '02-revenue': 119028, '03-cogs': 54936, '04-profit': 64092} 
+truffle butter ramen {'01-count': 8982.0, '02-revenue': 125748, '03-cogs': 62874, '04-profit': 62874} 
+tonkotsu ramen {'01-count': 9288.0, '02-revenue': 120744, '03-cogs': 55728, '04-profit': 65016} 
+vegetarian spicy miso {'01-count': 9216.0, '02-revenue': 110592, '03-cogs': 46080, '04-profit': 64512} 
+shio ramen {'01-count': 9180.0, '02-revenue': 100980, '03-cogs': 45900, '04-profit': 55080} 
+miso crab ramen {'01-count': 8890.0, '02-revenue': 106680, '03-cogs': 53340, '04-profit': 53340} 
+nagomi shoyu {'01-count': 9132.0, '02-revenue': 100452, '03-cogs': 45660, '04-profit': 54792} 
+soft-shell miso crab ramen {'01-count': 9130.0, '02-revenue': 127820, '03-cogs': 63910, '04-profit': 63910} 
+burnt garlic tonkotsu ramen {'01-count': 9070.0, '02-revenue': 126980, '03-cogs': 54420, '04-profit': 72560} 
+vegetarian curry + king trumpet mushroom ramen {'01-count': 8824.0, '02-revenue': 114712, '03-cogs': 61768, '04-profit': 52944} 
